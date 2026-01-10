@@ -26,7 +26,7 @@ The collection gathers and optimizes schematics contributed within the VE commun
 - All players who provided suggestions and feedback (thanks to all anonymous contributors!)
 
 ## Version
-- Pack version: v4.1.0
+- Pack version: v4.0.0
 - Last updated: 2026-01-10
 
 ## Compatibility

@@ -2,7 +2,7 @@
   "name": "ve-addon-schematics",
   "displayName": "VE Addon: Schematics",
   "subtitle": "Vanilla Expansion 模组的蓝图扩展包",
-  "version": "v4.1.0",
+  "version": "v4.0.0",
   "author": "[sky[]]Momiji142857[white[]]",
   "main": "ve.addon.schematics.VeAddonSchematics",
   "java": true,
