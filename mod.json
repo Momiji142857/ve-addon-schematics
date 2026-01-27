@@ -2,7 +2,7 @@
   "name": "ve-addon-schematics",
   "displayName": "VE Addon: Schematics",
   "subtitle": "Vanilla Expansion 模组的蓝图扩展包",
-  "version": "v4.0.3",
+  "version": "v4.0.4",
   "author": "[sky[]]Momiji142857[white[]]",
   "main": "ve.addon.schematics.VeAddonSchematics",
   "java": true,
@@ -12,6 +12,6 @@
   ],
   "hidden": true,
   "icon": "assets/icon.png",
-  "description": "[#90DBFF[]]Vanilla Expansion原版扩展[white[]]的蓝图附属模组\nschematics add‑on for the [#90DBFF[]]Vanilla Expansion[white[]] (VE)\n\n[red[]]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white[]]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n最后更新 / Last updated: 2026-01-27",
+  "description": "[#90DBFF[]]Vanilla Expansion原版扩展[white[]]的蓝图附属模组\nschematics add‑on for the [#90DBFF[]]Vanilla Expansion[white[]] (VE)\n\n[red[]]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white[]]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n最后更新 / Last updated: 2026-01-28",
   "repo": "https://github.com/Momiji142857/ve-addon-schematics"
 }
