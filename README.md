@@ -32,7 +32,7 @@ The collection gathers and optimizes schematics contributed within the VE commun
 - All players who provided suggestions and feedback (thanks to all anonymous contributors!)
 
 ## Version
-- Pack version: v4.0.5
+- Pack version: v4.0.6
 - Last updated: 2026-02-05
 
 ## Compatibility
