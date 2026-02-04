@@ -22,13 +22,18 @@ The collection gathers and optimizes schematics contributed within the VE commun
 - [Cry0flu1d](https://github.com/Cry0flu1d)
 - 冰酒.
 - I'm 人机
-- 凌汐Lingxi0x0
+- Lingxi0x0
+- Vercation_RSWT
+- 不说话的tr
+- awe
+- 风，然后是尘
+- 是朱不是猪
 - 蓝图档案馆, Steam Workshop, and other platforms
 - All players who provided suggestions and feedback (thanks to all anonymous contributors!)
 
 ## Version
 - Pack version: v4.0.5
-- Last updated: 2026-01-29
+- Last updated: 2026-02-05
 
 ## Compatibility
 - Requires Mindustry game version >= v154

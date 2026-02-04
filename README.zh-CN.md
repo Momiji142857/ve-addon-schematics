@@ -25,13 +25,18 @@ Vanilla Expansion 原版扩展 (VE) 模组的蓝图附属模组。
 - [Cry0flu1d](https://github.com/Cry0flu1d)
 - 冰酒.
 - I'm 人机
-- 凌汐Lingxi0x0
+- Lingxi0x0
+- Vercation_RSWT
+- 不说话的tr
+- awe
+- 风，然后是尘
+- 是朱不是猪
 - 蓝图档案馆, Steam创意工坊 等平台
 - 以及所有对蓝图提出意见与反馈的玩家（感谢所有无名的贡献者！）
 
 ## 版本信息
 - 合集版本：v4.0.5
-- 最后更新：2026-01-29
+- 最后更新：2026-02-05
 
 ## 兼容性
 - 需要 Mindustry 游戏版本 >= v154
