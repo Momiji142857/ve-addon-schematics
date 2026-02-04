@@ -32,12 +32,12 @@ The collection gathers and optimizes schematics contributed within the VE commun
 - All players who provided suggestions and feedback (thanks to all anonymous contributors!)
 
 ## Version
-- Pack version: v4.0.6
-- Last updated: 2026-02-05
+- Pack version: v4.0.8
+- Last updated: 2026-02-14
 
 ## Compatibility
 - Requires Mindustry game version >= v154
-- Requires Vanilla Expansion (VE) mod; recommended VE version >= v2.0.3.1 (keeping VE up to date is advised for best compatibility)
+- Requires Vanilla Expansion (VE) mod; recommended VE version >= v2.0.3.7 (keeping VE up to date is advised for best compatibility)
 
 ## Reporting Issues
 When opening an issue, please include:
@@ -52,7 +52,7 @@ Contributions of schematics and improvements are welcome. Please ensure you have
 
 Contact / Submission options:
 - GitHub: Momiji142857
-- QQ group submissions: (none)
+- QQ group submissions: 1075275660
 - Author QQ: 1945542457
 
 Thank you to everyone who contributed and helped test the pack!
