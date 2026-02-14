@@ -23,20 +23,20 @@ Vanilla Expansion 原版扩展 (VE) 模组的蓝图附属模组。
 - 貅:璇
 - 守护天使
 - [Cry0flu1d](https://github.com/Cry0flu1d)
-- 冰酒.
-- I'm 人机
 - Lingxi0x0
-- Vercation_RSWT
-- 不说话的tr
 - awe
 - 风，然后是尘
+- 冰酒.
+- I'm 人机
+- Vercation_RSWT
+- 不说话的tr
 - 是朱不是猪
 - 蓝图档案馆, Steam创意工坊 等平台
 - 以及所有对蓝图提出意见与反馈的玩家（感谢所有无名的贡献者！）
 
 ## 版本信息
 - 合集版本：v4.0.8
-- 最后更新：2026-02-14
+- 最后更新：2026-02-15
 
 ## 兼容性
 - 需要 Mindustry 游戏版本 >= v154
