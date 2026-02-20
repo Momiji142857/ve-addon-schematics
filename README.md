@@ -32,8 +32,8 @@ The collection gathers and optimizes schematics contributed within the VE commun
 - All players who provided suggestions and feedback (thanks to all anonymous contributors!)
 
 ## Version
-- Pack version: v4.0.8
-- Last updated: 2026-02-15
+- Pack version: v4.0.9
+- Last updated: 2026-02-20
 
 ## Compatibility
 - Requires Mindustry game version >= v154
