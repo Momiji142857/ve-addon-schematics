@@ -1,7 +1,7 @@
 # VE Addon: Schematics
 Mindustry mod: schematics add‑on for the Vanilla Expansion (VE)
 
-[English](this) | [中文](README.zh-CN.md)
+**English** | [中文](README.zh-CN.md)
 
 ## Overview
 This mod provides an auxiliary collection of schematics for the Vanilla Expansion (VE) mod.  
