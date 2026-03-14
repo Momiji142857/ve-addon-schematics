@@ -28,16 +28,17 @@ The collection gathers and optimizes schematics contributed within the VE commun
 - Vercation_RSWT
 - 不说话的tr
 - 是朱不是猪
+- Ls
 - 蓝图档案馆, Steam Workshop, and other platforms
 - All players who provided suggestions and feedback (thanks to all anonymous contributors!)
 
 ## Version
-- Pack version: v4.0.9
-- Last updated: 2026-02-20
+- Pack version: v4.0.11
+- Last updated: 2026-03-27
 
 ## Compatibility
 - Requires Mindustry game version >= v154
-- Requires Vanilla Expansion (VE) mod; recommended VE version >= v2.0.3.7 (keeping VE up to date is advised for best compatibility)
+- Requires Vanilla Expansion (VE) mod; recommended VE version >= v2.0.3.9 (keeping VE up to date is advised for best compatibility)
 
 ## Reporting Issues
 When opening an issue, please include:
