@@ -10,31 +10,36 @@ Please enable the Vanilla Expansion mod before using this addon.
 The collection gathers and optimizes schematics contributed within the VE community to make them easier for players to import and use. If you have improved schematics or suggestions, contributions and feedback are welcome.
 
 ## Main Sources & Contributors
-(in no particular order)
-- 火星人076 — VE mod author and primary schematic creator
-- Momiji142857 — Maintainer of this addon; performed compatibility adjustments on some schematics
-- 雨落nya~
+
+**Core Contributors**
+- [火星人076](https://github.com/Martian238) — VE mod author, primary schematic creator
+- [Momiji142857](https://github.com/Momiji142857) — Maintainer of this addon, performed compatibility adjustments on some schematics
+
+**Other Contributors** (sorted by name)
+- awe
+- [Cry0flu1d](https://github.com/Cry0flu1d)
+- I'm 人机
+- Lingxi0x0
+- Ls
+- Vercation_RSWT
+- 冰酒.
+- 不说话的tr
+- 风，然后是尘
 - 落日羽飞
 - 闪亮善良
+- 是朱不是猪
+- 守护天使
 - 水波
 - 貅:璇
-- 守护天使
-- [Cry0flu1d](https://github.com/Cry0flu1d)
-- Lingxi0x0
-- awe
-- 风，然后是尘
-- 冰酒.
-- I'm 人机
-- Vercation_RSWT
-- 不说话的tr
-- 是朱不是猪
-- Ls
+- 雨落nya~
+
+**Special Thanks**
 - 蓝图档案馆, Steam Workshop, and other platforms
-- All players who provided suggestions and feedback (thanks to all anonymous contributors!)
+- All players who provided suggestions and feedback — thank you to every contributor for your invaluable support!
 
 ## Version
-- Pack version: v4.0.11
-- Last updated: 2026-03-27
+- Pack version: v4.0.13
+- Last updated: 2026-04-09
 
 ## Compatibility
 - Requires Mindustry game version >= v154
