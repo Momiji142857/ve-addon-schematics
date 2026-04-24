@@ -1,5 +1,5 @@
 # VE Addon: Schematics
-Mindustry mod: schematics add‑on for the Vanilla Expansion (VE)
+[Mindustry](https://github.com/Anuken/Mindustry) mod: schematics add‑on for the [Vanilla Expansion](https://github.com/Martian238/Vanilla-Expansion-Mod) (VE)
 
 **English** | [中文](README.zh-CN.md)
 
@@ -24,6 +24,7 @@ The collection gathers and optimizes schematics contributed within the VE commun
 - Vercation_RSWT
 - 冰酒.
 - 不说话的tr
+- 方块
 - 风，然后是尘
 - 落日羽飞
 - 闪亮善良
@@ -34,16 +35,16 @@ The collection gathers and optimizes schematics contributed within the VE commun
 - 雨落nya~
 
 **Special Thanks**
-- 蓝图档案馆, Steam Workshop, and other platforms
+- [蓝图档案馆](https://docs.qq.com/sheet/DVHNoS3lIcm1NbFFS?tab=k1wjge), [Steam Workshop](https://steamcommunity.com/app/1127400/workshop/), and other platforms
 - All players who provided suggestions and feedback — thank you to every contributor for your invaluable support!
 
 ## Version
-- Pack version: v4.0.13
-- Last updated: 2026-04-09
+- Pack version: v4.1.0
+- Last updated: 2026-04-24
 
 ## Compatibility
 - Requires Mindustry game version >= v154
-- Requires Vanilla Expansion (VE) mod; recommended VE version >= v2.0.3.9 (keeping VE up to date is advised for best compatibility)
+- Requires Vanilla Expansion (VE) mod; recommended VE version >= v2.0.4.0 (keeping VE up to date is advised for best compatibility)
 
 ## Reporting Issues
 When opening an issue, please include:
@@ -57,8 +58,8 @@ When opening an issue, please include:
 Contributions of schematics and improvements are welcome. Please ensure you have the right to redistribute any assets you submit and state the original author and license where applicable.
 
 Contact / Submission options:
-- GitHub: Momiji142857
-- QQ group submissions: 1075275660
+- GitHub: [Momiji142857](https://github.com/Momiji142857)
+- QQ group submissions: 624367215
 - Author QQ: 1945542457
 
 Thank you to everyone who contributed and helped test the pack!
