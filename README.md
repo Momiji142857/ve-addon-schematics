@@ -21,6 +21,7 @@ The collection gathers and optimizes schematics contributed within the VE commun
 - I'm 人机
 - Lingxi0x0
 - Ls
+- sweeper79
 - Vercation_RSWT
 - 冰酒.
 - 不说话的tr
@@ -32,6 +33,7 @@ The collection gathers and optimizes schematics contributed within the VE commun
 - 守护天使
 - 水波
 - 貅:璇
+- 油炸薯条
 - 雨落nya~
 
 **Special Thanks**
@@ -39,8 +41,8 @@ The collection gathers and optimizes schematics contributed within the VE commun
 - All players who provided suggestions and feedback — thank you to every contributor for your invaluable support!
 
 ## Version
-- Pack version: v4.1.0
-- Last updated: 2026-04-24
+- Pack version: v4.1.1
+- Last updated: 2026-04-29
 
 ## Compatibility
 - Requires Mindustry game version >= v154
