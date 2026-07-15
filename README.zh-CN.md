@@ -24,6 +24,7 @@ Vanilla Expansion 原版扩展 (VE) 模组的蓝图附属模组。
 - I'm 人机
 - Lingxi0x0
 - Ls
+- mnx
 - sweeper79
 - Vercation_RSWT
 - 冰酒.
@@ -44,12 +45,12 @@ Vanilla Expansion 原版扩展 (VE) 模组的蓝图附属模组。
 - 以及所有对蓝图提出意见与反馈的玩家，感谢每一位贡献者的宝贵支持！
 
 ## 版本信息
-- 合集版本：v4.1.1
-- 最后更新：2026-04-29
+- 合集版本：v4.1.2
+- 最后更新：2026-07-15
 
 ## 兼容性
-- 需要 Mindustry 游戏版本 >= v154
-- 需要 Vanilla Expansion (VE) 模组，建议 VE 版本 >= v2.0.4.0（建议保持 VE 为最新可用版本以获得最佳兼容性）
+- 需要 Mindustry 游戏版本 >= v159
+- 需要 Vanilla Expansion (VE) 模组，建议 VE 版本 >= v2.1.1.5（建议保持 VE 为最新可用版本以获得最佳兼容性）
 
 ## 报告问题
 提交 Issue 时请尽量提供以下信息：

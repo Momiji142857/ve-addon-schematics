@@ -21,6 +21,7 @@ The collection gathers and optimizes schematics contributed within the VE commun
 - I'm 人机
 - Lingxi0x0
 - Ls
+- mnx
 - sweeper79
 - Vercation_RSWT
 - 冰酒.
@@ -41,12 +42,12 @@ The collection gathers and optimizes schematics contributed within the VE commun
 - All players who provided suggestions and feedback — thank you to every contributor for your invaluable support!
 
 ## Version
-- Pack version: v4.1.1
-- Last updated: 2026-04-29
+- Pack version: v4.1.2
+- Last updated: 2026-07-15
 
 ## Compatibility
-- Requires Mindustry game version >= v154
-- Requires Vanilla Expansion (VE) mod; recommended VE version >= v2.0.4.0 (keeping VE up to date is advised for best compatibility)
+- Requires Mindustry game version >= v159
+- Requires Vanilla Expansion (VE) mod; recommended VE version >= v2.1.1.5 (keeping VE up to date is advised for best compatibility)
 
 ## Reporting Issues
 When opening an issue, please include:
