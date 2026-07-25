@@ -8,8 +8,4 @@ public class VeAddonSchematics extends Mod {
     public VeAddonSchematics() {
         Log.info("Loaded VE Addon: Schematics constructor.");
     }
-
-    @Override
-    public void loadContent() {
-    }
 }
