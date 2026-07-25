@@ -16,6 +16,7 @@ The collection gathers and optimizes schematics contributed within the VE commun
 - [Momiji142857](https://github.com/Momiji142857) — Maintainer of this addon, performed compatibility adjustments on some schematics
 
 **Other Contributors** (sorted by name)
+- 128_OTEML
 - awe
 - [Cry0flu1d](https://github.com/Cry0flu1d)
 - I'm 人机
@@ -28,6 +29,7 @@ The collection gathers and optimizes schematics contributed within the VE commun
 - 不说话的tr
 - 方块
 - 风，然后是尘
+- 快q乐w之e旅r
 - 落日羽飞
 - 闪亮善良
 - 是朱不是猪
@@ -42,12 +44,12 @@ The collection gathers and optimizes schematics contributed within the VE commun
 - All players who provided suggestions and feedback — thank you to every contributor for your invaluable support!
 
 ## Version
-- Pack version: v4.1.2
-- Last updated: 2026-07-15
+- Pack version: v4.1.3
+- Last updated: 2026-07-25
 
 ## Compatibility
 - Requires Mindustry game version >= v159
-- Requires Vanilla Expansion (VE) mod; recommended VE version >= v2.1.1.5 (keeping VE up to date is advised for best compatibility)
+- Requires Vanilla Expansion (VE) mod; recommended VE version >= v2.1.1.6 (keeping VE up to date is advised for best compatibility)
 
 ## Reporting Issues
 When opening an issue, please include:

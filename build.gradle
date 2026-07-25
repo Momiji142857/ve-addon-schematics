@@ -80,6 +80,7 @@ jar{
 
     from(projectDir){
         include "mod.json"
+        include "icon.png"
     }
 
     from("assets/"){
