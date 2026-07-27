@@ -67,7 +67,7 @@ Vanilla Expansion 原版扩展 (VE) 模组的蓝图附属模组。
 
 联系方式：
 - GitHub：[Momiji142857](https://github.com/Momiji142857)
-- QQ群号：624367215
+- QQ群号：974330782
 - 作者 QQ：1945542457
 
 感谢所有为本合集贡献并参与测试的成员！

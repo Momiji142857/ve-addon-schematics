@@ -64,7 +64,7 @@ Contributions of schematics and improvements are welcome. Please ensure you have
 
 Contact / Submission options:
 - GitHub: [Momiji142857](https://github.com/Momiji142857)
-- QQ group submissions: 624367215
+- QQ group submissions: 974330782
 - Author QQ: 1945542457
 
 Thank you to everyone who contributed and helped test the pack!
