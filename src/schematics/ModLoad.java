@@ -1,11 +1,11 @@
-package ve.addon.schematics;
+package schematics;
 
 import arc.util.Log;
 import mindustry.mod.Mod;
 
-public class VeAddonSchematics extends Mod {
+public class ModLoad extends Mod {
 
-    public VeAddonSchematics() {
+    public ModLoad() {
         Log.info("Loaded VE Addon: Schematics constructor.");
     }
 }
