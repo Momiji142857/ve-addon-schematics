@@ -17,7 +17,6 @@ The collection gathers and optimizes schematics contributed within the VE commun
 - [Momiji142857](https://github.com/Momiji142857) — Maintainer of this addon, performed compatibility adjustments on some schematics
 
 **Other Contributors** (sorted by name)
-- 128_OTEML
 - awe
 - [Cry0flu1d](https://github.com/Cry0flu1d)
 - I'm 人机
