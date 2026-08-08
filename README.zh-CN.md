@@ -52,7 +52,7 @@ Vanilla Expansion 原版扩展 (VE) 模组的蓝图附属模组。
 
 ## 兼容性
 - 需要 Mindustry 游戏版本 >= v159
-- 需要 Vanilla Expansion (VE) 模组，建议 VE 版本 >= v2.1.1.C（建议保持 VE 为最新可用版本以获得最佳兼容性）
+- 需要 Vanilla Expansion (VE) 模组，建议 VE 版本 >= v2.1.1.C-1（建议保持 VE 为最新可用版本以获得最佳兼容性）
 
 ## 报告问题
 提交 Issue 时请尽量提供以下信息：

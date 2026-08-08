@@ -50,7 +50,7 @@ The collection gathers and optimizes schematics contributed within the VE commun
 
 ## Compatibility
 - Requires Mindustry game version >= v159
-- Requires Vanilla Expansion (VE) mod; recommended VE version >= v2.1.1.C (keeping VE up to date is advised for best compatibility)
+- Requires Vanilla Expansion (VE) mod; recommended VE version >= v2.1.1.C-1 (keeping VE up to date is advised for best compatibility)
 
 ## Reporting Issues
 When opening an issue, please include:
