@@ -13,6 +13,7 @@ The collection gathers and optimizes schematics contributed within the VE commun
 
 **Core Contributors**
 - [火星人076](https://github.com/Martian238) — VE mod author, primary schematic creator
+- [128_OTEML](https://github.com/128OTEML) — VE mod author
 - [Momiji142857](https://github.com/Momiji142857) — Maintainer of this addon, performed compatibility adjustments on some schematics
 
 **Other Contributors** (sorted by name)
@@ -44,12 +45,12 @@ The collection gathers and optimizes schematics contributed within the VE commun
 - All players who provided suggestions and feedback — thank you to every contributor for your invaluable support!
 
 ## Version
-- Pack version: v4.1.5
-- Last updated: 2026-08-03
+- Pack version: v4.1.6
+- Last updated: 2026-08-08
 
 ## Compatibility
 - Requires Mindustry game version >= v159
-- Requires Vanilla Expansion (VE) mod; recommended VE version >= v2.1.1.B (keeping VE up to date is advised for best compatibility)
+- Requires Vanilla Expansion (VE) mod; recommended VE version >= v2.1.1.C (keeping VE up to date is advised for best compatibility)
 
 ## Reporting Issues
 When opening an issue, please include:
@@ -65,6 +66,7 @@ Contributions of schematics and improvements are welcome. Please ensure you have
 Contact / Submission options:
 - GitHub: [Momiji142857](https://github.com/Momiji142857)
 - QQ group submissions: 1090802935
+- VE Discord: [here](https://discord.gg/4KgzzunQ9q)
 - Author QQ: 1945542457
 
 Thank you to everyone who contributed and helped test the pack!
