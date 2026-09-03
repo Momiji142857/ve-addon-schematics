@@ -41,18 +41,19 @@ Vanilla Expansion 原版扩展 (VE) 模组的蓝图附属模组。
 - 貅:璇
 - 油炸薯条
 - 雨落nya~
+- 占戈云鬼
 
  **特别致谢**
 - [蓝图档案馆](https://docs.qq.com/sheet/DVHNoS3lIcm1NbFFS?tab=k1wjge), [Steam创意工坊](https://steamcommunity.com/app/1127400/workshop/) 等平台
 - 以及所有对蓝图提出意见与反馈的玩家，感谢每一位贡献者的宝贵支持！
 
 ## 版本信息
-- 合集版本：v4.1.6
-- 最后更新：2026-08-08
+- 合集版本：v4.1.7
+- 最后更新：2026-09-03
 
 ## 兼容性
 - 需要 Mindustry 游戏版本 >= v159
-- 需要 Vanilla Expansion (VE) 模组，建议 VE 版本 >= v2.1.1.C-1（建议保持 VE 为最新可用版本以获得最佳兼容性）
+- 需要 Vanilla Expansion (VE) 模组，建议 VE 版本 >= v2.1.1.F（建议保持 VE 为最新可用版本以获得最佳兼容性）
 
 ## 报告问题
 提交 Issue 时请尽量提供以下信息：

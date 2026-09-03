@@ -38,18 +38,19 @@ The collection gathers and optimizes schematics contributed within the VE commun
 - 貅:璇
 - 油炸薯条
 - 雨落nya~
+- 占戈云鬼
 
 **Special Thanks**
 - [蓝图档案馆](https://docs.qq.com/sheet/DVHNoS3lIcm1NbFFS?tab=k1wjge), [Steam Workshop](https://steamcommunity.com/app/1127400/workshop/), and other platforms
 - All players who provided suggestions and feedback — thank you to every contributor for your invaluable support!
 
 ## Version
-- Pack version: v4.1.6
-- Last updated: 2026-08-08
+- Pack version: v4.1.7
+- Last updated: 2026-09-03
 
 ## Compatibility
 - Requires Mindustry game version >= v159
-- Requires Vanilla Expansion (VE) mod; recommended VE version >= v2.1.1.C-1 (keeping VE up to date is advised for best compatibility)
+- Requires Vanilla Expansion (VE) mod; recommended VE version >= v2.1.1.F (keeping VE up to date is advised for best compatibility)
 
 ## Reporting Issues
 When opening an issue, please include:

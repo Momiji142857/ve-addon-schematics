@@ -82,17 +82,12 @@ jar{
 
     from(projectDir){
         include "mod.json"
-        include "icon.png"
     }
 
     from("assets/"){
         include "**"
     }
 
-    from("src/content/"){
-        include "**"
-        into "content"
-    }
 }
 
 tasks.register('deploy', Jar){
