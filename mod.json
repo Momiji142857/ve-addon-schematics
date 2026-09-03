@@ -2,7 +2,7 @@
   "name": "ve-addon-schematics",
   "displayName": "VE Addon: Schematics",
   "subtitle": "Vanilla Expansion 模组的蓝图扩展包",
-  "version": "v4.1.6",
+  "version": "v4.1.7",
   "author": "VE模组作者: 火星人076 & 128_OTEML\n本模组作者: [sky[]]Momiji142857[white[]]\n其他贡献者请见 GitHub 仓库",
   "minGameVersion": 159,
   "dependencies": [
