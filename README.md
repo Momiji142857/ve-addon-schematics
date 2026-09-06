@@ -1,20 +1,20 @@
 # VE Addon: Schematics
-[Mindustry](https://github.com/Anuken/Mindustry) mod: schematics add‑on for the [Vanilla Expansion](https://github.com/Martian238/Vanilla-Expansion-Mod) (VE)
+[Mindustry](https://github.com/Anuken/Mindustry) mod: veschematics add‑on for the [Vanilla Expansion](https://github.com/Martian238/Vanilla-Expansion-Mod) (VE)
 
 **English** | [中文](README.zh-CN.md)
 
 ## Overview
-This mod provides an auxiliary collection of schematics for the Vanilla Expansion (VE) mod.  
+This mod provides an auxiliary collection of veschematics for the Vanilla Expansion (VE) mod.  
 Please enable the Vanilla Expansion mod before using this addon.
 
-The collection gathers and optimizes schematics contributed within the VE community to make them easier for players to import and use. If you have improved schematics or suggestions, contributions and feedback are welcome.
+The collection gathers and optimizes veschematics contributed within the VE community to make them easier for players to import and use. If you have improved veschematics or suggestions, contributions and feedback are welcome.
 
 ## Main Sources & Contributors
 
 **Core Contributors**
 - [火星人076](https://github.com/Martian238) — VE mod author, primary schematic creator
 - [128_OTEML](https://github.com/128OTEML) — VE mod author
-- [Momiji142857](https://github.com/Momiji142857) — Maintainer of this addon, performed compatibility adjustments on some schematics
+- [Momiji142857](https://github.com/Momiji142857) — Maintainer of this addon, performed compatibility adjustments on some veschematics
 
 **Other Contributors** (sorted by name)
 - awe
@@ -61,7 +61,7 @@ When opening an issue, please include:
 - Relevant logs or screenshots
 
 ## Contributing
-Contributions of schematics and improvements are welcome. Please ensure you have the right to redistribute any assets you submit and state the original author and license where applicable.
+Contributions of veschematics and improvements are welcome. Please ensure you have the right to redistribute any assets you submit and state the original author and license where applicable.
 
 Contact / Submission options:
 - GitHub: [Momiji142857](https://github.com/Momiji142857)
