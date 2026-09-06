@@ -1,5 +1,5 @@
 # VE Addon: Schematics
-[Mindustry](https://github.com/Anuken/Mindustry) mod: veschematics add‑on for the [Vanilla Expansion](https://github.com/Martian238/Vanilla-Expansion-Mod) (VE)
+[Mindustry](https://github.com/Anuken/Mindustry) mod: schematics add‑on for the [Vanilla Expansion](https://github.com/Martian238/Vanilla-Expansion-Mod) (VE)
 
 **English** | [中文](README.zh-CN.md)
 
