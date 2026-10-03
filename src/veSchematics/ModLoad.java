@@ -1,4 +1,4 @@
-package veschematics;
+package veSchematics;
 
 import arc.util.Log;
 import mindustry.mod.Mod;
