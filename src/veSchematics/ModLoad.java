@@ -3,9 +3,11 @@ package veSchematics;
 import arc.util.Log;
 import mindustry.mod.Mod;
 
-public class ModLoad extends Mod {
+public class ModLoad extends Mod{
 
-    public ModLoad() {
+    @Override
+    public void init(){
         Log.info("Loaded VE Addon: Schematics constructor.");
     }
+
 }

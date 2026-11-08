@@ -22,6 +22,7 @@ Vanilla Expansion 原版扩展 (VE) 模组的蓝图附属模组。
 **其他贡献者**（按首字母/拼音排序）
 - awe
 - [Cry0flu1d](https://github.com/Cry0flu1d)
+- HD141130
 - I'm 人机
 - Lingxi0x0
 - Ls
@@ -48,12 +49,12 @@ Vanilla Expansion 原版扩展 (VE) 模组的蓝图附属模组。
 - 以及所有对蓝图提出意见与反馈的玩家，感谢每一位贡献者的宝贵支持！
 
 ## 版本信息
-- 合集版本：v4.1.7
-- 最后更新：2026-09-03
+- 合集版本：v4.2.0
+- 最后更新：2026-11-08
 
 ## 兼容性
-- 需要 Mindustry 游戏版本 >= v159
-- 需要 Vanilla Expansion (VE) 模组，建议 VE 版本 >= v2.1.1.F（建议保持 VE 为最新可用版本以获得最佳兼容性）
+- 需要 Mindustry 游戏版本 >= v160
+- 需要 Vanilla Expansion (VE) 模组，建议 VE 版本 >= v2.1.2.6（建议保持 VE 为最新可用版本以获得最佳兼容性）
 
 ## 报告问题
 提交 Issue 时请尽量提供以下信息：
@@ -68,7 +69,7 @@ Vanilla Expansion 原版扩展 (VE) 模组的蓝图附属模组。
 
 联系方式：
 - GitHub：[Momiji142857](https://github.com/Momiji142857)
-- QQ群号：1090802935 (6群)
+- QQ群号：1036743313 (7群)
 - VE Discord: [here](https://discord.gg/4KgzzunQ9q)
 - 作者 QQ：1945542457
 

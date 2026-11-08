@@ -19,12 +19,13 @@ The collection gathers and optimizes veSchematics contributed within the VE comm
 **Other Contributors** (sorted by name)
 - awe
 - [Cry0flu1d](https://github.com/Cry0flu1d)
+- HD141130
 - I'm 人机
 - Lingxi0x0
 - Ls
 - mnx
 - sweeper79
-- Vercation_RSWT
+- Vercation_RSWT 
 - 冰酒.
 - 不说话的tr
 - 方块
@@ -45,12 +46,12 @@ The collection gathers and optimizes veSchematics contributed within the VE comm
 - All players who provided suggestions and feedback — thank you to every contributor for your invaluable support!
 
 ## Version
-- Pack version: v4.1.7
-- Last updated: 2026-09-03
+- Pack version: v4.2.0
+- Last updated: 2026-11-08
 
 ## Compatibility
-- Requires Mindustry game version >= v159
-- Requires Vanilla Expansion (VE) mod; recommended VE version >= v2.1.1.F (keeping VE up to date is advised for best compatibility)
+- Requires Mindustry game version >= v160
+- Requires Vanilla Expansion (VE) mod; recommended VE version >= v2.1.2.6 (keeping VE up to date is advised for best compatibility)
 
 ## Reporting Issues
 When opening an issue, please include:
@@ -65,7 +66,7 @@ Contributions of veSchematics and improvements are welcome. Please ensure you ha
 
 Contact / Submission options:
 - GitHub: [Momiji142857](https://github.com/Momiji142857)
-- QQ group submissions: 1090802935
+- QQ group submissions: 1036743313
 - VE Discord: [here](https://discord.gg/4KgzzunQ9q)
 - Author QQ: 1945542457
 
